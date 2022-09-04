@@ -7,6 +7,8 @@ React - React Native - Expo - Native Base
 
 [Build almak için](https://docs.expo.dev/build/setup/)
 
+[Kodları Expo'da görmek için](https://snack.expo.dev/@emrekayik/sihirek)
+
 
 ### Hesaplama Fonksiyonu : 
 ```javascript
