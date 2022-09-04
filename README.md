@@ -26,4 +26,6 @@ React - React Native - Expo - Native Base
 }
 ```
 
+![Uygulama içi görüntü](https://github.com/emrekayik/sihirek-web/raw/master/sihirek-mobile.jpg)
+
 ### Emre Kayık 08/2022
