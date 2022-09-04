@@ -2,8 +2,11 @@
 
 ## Aklınızdan tuttuğunuz sayıyı matematik sayesinde bulun.
 
-Aşağıdaki teknolojilere şükranlarımı sunuyorum.
+Aşağıdaki teknolojilerle geliştirildi, hepsine şükranlarımı sunuyorum.
 React - React Native - Expo - Native Base
+
+[Build almak için](https://docs.expo.dev/build/setup/)
+
 
 ### Hesaplama Fonksiyonu : 
 ```javascript
