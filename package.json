@@ -6,6 +6,11 @@
     "ios": "expo start --ios",
     "web": "expo start --web"
   },
+  "author": {
+    "name": "Emre Kayık",
+    "email": "emrekayik1905@gmail.com",
+    "url": "https://github.com/emrekayik/sihirek-mobile.git"
+  },
   "dependencies": {
     "expo": "~46.0.9",
     "expo-status-bar": "~1.4.0",
