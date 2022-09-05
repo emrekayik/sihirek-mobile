@@ -9,6 +9,8 @@ React - React Native - Expo - Native Base
 
 [Kodları Expo'da görmek için](https://snack.expo.dev/@emrekayik/sihirek)
 
+[Web versiyonu için](https://github.com/emrekayik/sihirek-web)
+
 
 ### Hesaplama Fonksiyonu : 
 ```javascript
